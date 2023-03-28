@@ -4,6 +4,7 @@ pylint==2.10.2
 pytest-cov>=2.6.1
 pytest>=4.4.0
 pre-commit>=2.19
-ipytest==0.13.0 
+ipytest==0.13.0
+ipykernel==6.21.3
 nbconvert===6.5.4
 nbformat==5.1.3
